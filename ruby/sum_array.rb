@@ -10,4 +10,5 @@ def sum(array)
 end
 
 nums = [1,2,3]
-puts "sum is: #{sum(nums)}"
+puts "sum is:   #{sum(nums)}"
+puts "expected: 6"
